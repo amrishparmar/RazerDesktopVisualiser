@@ -1,7 +1,10 @@
 # RazerDesktopVisualiser
+
 An application for visualising your PC desktop on your Razer Chroma keyboard. Created at AnvilHackIV.
 
 *Note*: It currently works best on full size keyboards. Though it will work on Razer laptop or TE keyboards, the right-hand side will be slightly cut-off.
+
+The functionality this program offers is now built-in to the latest builds of Synapse 3, so just use that if you have it. Although this is still useful if you're using Synapse 2.
 
 ## Running the program
 Minimum requirements:
